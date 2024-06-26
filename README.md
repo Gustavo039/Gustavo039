@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
-<h3 align="center">I am 20 years old and I am graduating in Statistics at UFJF, in the 8th period. Currently a fellow at JF Salvando Todos, working on the daily collection of data, the development and generation of automated reports, and the generation analysis for our newsletters. On the platform, I had my first experience with the analysis and organization of epidemiological data, and with teamwork. I fell in love with statistics watching videos about the search for objects in large geographic spaces using inference and I believe that statistics combined with programming algorithms are the most powerful tool for solving problems today</h3>
+<h3 align="center"> Statistician graduated at the Federal University of Juiz de Fora. He is a Scientific Initiation Fellow on the social and epidemiological data analysis platform JF Salvando Todos. Has experience with Automated Data Collection and Cleansing, creation of web pages in RShiny and Data Analysis and Modeling Currently works with inference and prediction of epidemiological data via Time Series models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavo039&label=Profile%20views&color=0e75b6&style=flat" alt="gustavo039" /> </p>
 
